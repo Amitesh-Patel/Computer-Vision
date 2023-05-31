@@ -7,6 +7,8 @@ In Cifar-100 dataset i used a pretrained model which is Efficient net It is a St
 
 ## ConvNET-EuroSAT (https://huggingface.co/Amite5h/convnext-tiny-finetuned-eurosat)
 
+hugging face space - `https://huggingface.co/spaces/Amite5h/EuroSAT_`
+
 Deployed hugging face link - `https://huggingface.co/spaces/Amite5h/EuroSAT_`
 CNN have inductive bais : sliding window , taranslation equivarience (better for object detection) 
 ViT - have less inductive bias than CNN  . And can outform CNN in classification task with having large dataset . But as input size increases 
